@@ -1,0 +1,9 @@
+# General
+.DS_Store
+
+# Vagrant
+.vagrant
+ubuntu-bionic-18.04-cloudimg-console.log
+
+# JetBrains
+.idea
